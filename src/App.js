@@ -1,10 +1,13 @@
+import "./App.css";
+import Button from "./components/Button";
 
-import './App.css';
 
-function App() {
+const App = () =>  {
   return (
     <div className="App">
-  
+ <div className="calc-grid"> 
+<Button />
+ </div>
     </div>
   );
 }
