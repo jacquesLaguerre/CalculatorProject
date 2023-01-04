@@ -7,6 +7,9 @@ const App = () =>  {
     <div className="App">
  <div className="calc-grid"> 
 <Button />
+<Button />
+<Button />
+<Button />
  </div>
     </div>
   );
