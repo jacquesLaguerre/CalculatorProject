@@ -13,3 +13,7 @@ background-color: rgb(247, 243, 243);
 width: 400px;
 border-radius: 16px ;
 }
+
+.row{
+  display: flex ;
+}
