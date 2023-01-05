@@ -1,0 +1,23 @@
+.input-wrapper{
+  height: 2em;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  flex-direction: column;
+  padding: 16px;
+
+}
+
+.result{
+  display: flex;
+  flex-direction: row-reverse;
+  flex: 1;
+  font-size: 24px;
+}
+
+.text{
+  display: flex;
+justify-content: flex-end;
+}
+
+
